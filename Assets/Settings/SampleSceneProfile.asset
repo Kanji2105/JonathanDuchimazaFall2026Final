@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24a169137338a2f47986f6bc8e00dfe8, type: 3}
   m_Name: CRTSettings
   m_EditorClassIdentifier: ColbyO.VNTG::ColbyO.VNTG.CRT.CRTSettings
-  active: 1
+  active: 0
   Enabled:
     m_OverrideState: 1
     m_Value: 1
@@ -230,7 +230,7 @@ MonoBehaviour:
     m_Value: 0
   VhsSmear:
     m_OverrideState: 1
-    m_Value: 0.95
+    m_Value: 1
   EnableTrackerLine:
     m_OverrideState: 1
     m_Value: 0
@@ -305,16 +305,16 @@ MonoBehaviour:
     m_Value: 0
   Gamma:
     m_OverrideState: 1
-    m_Value: 0.471
+    m_Value: 0.374
   Brightness:
     m_OverrideState: 1
-    m_Value: 0.45
+    m_Value: 0.5
   Contrast:
     m_OverrideState: 1
-    m_Value: 0.55
+    m_Value: 0.5
   Saturation:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.5
   Hue:
     m_OverrideState: 1
     m_Value: 0
@@ -342,7 +342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dbed17f5f145d64589ad7ae3c637fc3, type: 3}
   m_Name: PSXEffectSettings
   m_EditorClassIdentifier: ColbyO.VNTG::ColbyO.VNTG.PSX.PSXEffectSettings
-  active: 1
+  active: 0
   Enabled:
     m_OverrideState: 1
     m_Value: 1
@@ -411,7 +411,7 @@ MonoBehaviour:
     m_Value: {r: 0.33333334, g: 0.35686275, b: 0.3764706, a: 1}
   FogDensity:
     m_OverrideState: 1
-    m_Value: 0.008
+    m_Value: 0.001
   FogNoiseStrength:
     m_OverrideState: 1
     m_Value: 0
